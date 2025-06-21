@@ -1,1 +1,2 @@
 # Git-Practice-Zoya
+In this session, we learned how to use GitHub for collaborative programming. We understood the difference between the main branch and feature branches. We also learned how to create a repository, write a README file, and add collaborators. Each team member worked in their own branch and pushed code files separately. After that, we used pull requests to merge our changes into the main branch. This helped us learn how version control works in real-life software projects. It was a good introduction to teamwork in coding.
